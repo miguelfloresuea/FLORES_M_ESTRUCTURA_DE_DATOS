@@ -24,7 +24,6 @@ namespace _02_SEMANA_DATOS_PRIMITIVOS
             // Se muestran los resultados
             rect.Imprimir(areaRect, perRect);
 
-
             // ============================
             //      PROCESO PARA CÍRCULO
             // ============================
