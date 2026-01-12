@@ -1,0 +1,35 @@
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.5.2.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "02_SEMANA_DATOS_PRIMITIVOS", "02_SEMANA_DATOS_PRIMITIVOS\02_SEMANA_DATOS_PRIMITIVOS.csproj", "{31BE32AF-3833-FB0E-D40C-20DA1E4377D8}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "03_SEMANA_ARRAYS_MATRICES", "03_SEMANA_ARRAYS_MATRICES", "{B7032AA7-7BE0-B869-176E-C31679C8F159}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GESTION_ESTUDIANTES", "03_SEMANA_ARRAYS_MATRICES\GESTION_ESTUDIANTES\GESTION_ESTUDIANTES.csproj", "{C3F74D68-17AC-FC5A-33CB-94F08417DA74}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{31BE32AF-3833-FB0E-D40C-20DA1E4377D8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{31BE32AF-3833-FB0E-D40C-20DA1E4377D8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{31BE32AF-3833-FB0E-D40C-20DA1E4377D8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{31BE32AF-3833-FB0E-D40C-20DA1E4377D8}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C3F74D68-17AC-FC5A-33CB-94F08417DA74}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C3F74D68-17AC-FC5A-33CB-94F08417DA74}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C3F74D68-17AC-FC5A-33CB-94F08417DA74}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C3F74D68-17AC-FC5A-33CB-94F08417DA74}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(NestedProjects) = preSolution
+		{C3F74D68-17AC-FC5A-33CB-94F08417DA74} = {B7032AA7-7BE0-B869-176E-C31679C8F159}
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {D8F734B0-9D3F-479B-B6F7-5C6EB79924FE}
+	EndGlobalSection
+EndGlobal
