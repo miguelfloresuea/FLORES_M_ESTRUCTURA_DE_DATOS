@@ -10,12 +10,12 @@
 using System;
 using System.Reflection;
 
-[assembly: System.Reflection.AssemblyCompanyAttribute("GESTION_ESTUDIANTES")]
+[assembly: System.Reflection.AssemblyCompanyAttribute("01_Ejercicio_invertir_datos")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
 [assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+94c3d9cb105256677b41d4971a84e933a10a4b02")]
-[assembly: System.Reflection.AssemblyProductAttribute("GESTION_ESTUDIANTES")]
-[assembly: System.Reflection.AssemblyTitleAttribute("GESTION_ESTUDIANTES")]
+[assembly: System.Reflection.AssemblyProductAttribute("01_Ejercicio_invertir_datos")]
+[assembly: System.Reflection.AssemblyTitleAttribute("01_Ejercicio_invertir_datos")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
 
 // Generado por la clase WriteCodeFragment de MSBuild.
