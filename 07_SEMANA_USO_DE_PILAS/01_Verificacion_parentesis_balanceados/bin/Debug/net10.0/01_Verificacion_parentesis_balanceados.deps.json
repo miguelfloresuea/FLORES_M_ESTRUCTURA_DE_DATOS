@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v10.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v10.0": {
+      "01_Verificacion_parentesis_balanceados/1.0.0": {
+        "runtime": {
+          "01_Verificacion_parentesis_balanceados.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "01_Verificacion_parentesis_balanceados/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
