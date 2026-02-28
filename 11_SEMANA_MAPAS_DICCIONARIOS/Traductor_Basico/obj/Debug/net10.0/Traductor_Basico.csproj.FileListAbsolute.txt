@@ -1,0 +1,15 @@
+C:\Users\USUARIO\Documents\PROYECTOS\FLORES_M_ESTRUCTURA_DE_DATOS\11_SEMANA_MAPAS_DICCIONARIOS\Traductor_Basico\bin\Debug\net10.0\Traductor_Basico.exe
+C:\Users\USUARIO\Documents\PROYECTOS\FLORES_M_ESTRUCTURA_DE_DATOS\11_SEMANA_MAPAS_DICCIONARIOS\Traductor_Basico\bin\Debug\net10.0\Traductor_Basico.deps.json
+C:\Users\USUARIO\Documents\PROYECTOS\FLORES_M_ESTRUCTURA_DE_DATOS\11_SEMANA_MAPAS_DICCIONARIOS\Traductor_Basico\bin\Debug\net10.0\Traductor_Basico.runtimeconfig.json
+C:\Users\USUARIO\Documents\PROYECTOS\FLORES_M_ESTRUCTURA_DE_DATOS\11_SEMANA_MAPAS_DICCIONARIOS\Traductor_Basico\bin\Debug\net10.0\Traductor_Basico.dll
+C:\Users\USUARIO\Documents\PROYECTOS\FLORES_M_ESTRUCTURA_DE_DATOS\11_SEMANA_MAPAS_DICCIONARIOS\Traductor_Basico\bin\Debug\net10.0\Traductor_Basico.pdb
+C:\Users\USUARIO\Documents\PROYECTOS\FLORES_M_ESTRUCTURA_DE_DATOS\11_SEMANA_MAPAS_DICCIONARIOS\Traductor_Basico\obj\Debug\net10.0\Traductor_Basico.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\USUARIO\Documents\PROYECTOS\FLORES_M_ESTRUCTURA_DE_DATOS\11_SEMANA_MAPAS_DICCIONARIOS\Traductor_Basico\obj\Debug\net10.0\Traductor_Basico.AssemblyInfoInputs.cache
+C:\Users\USUARIO\Documents\PROYECTOS\FLORES_M_ESTRUCTURA_DE_DATOS\11_SEMANA_MAPAS_DICCIONARIOS\Traductor_Basico\obj\Debug\net10.0\Traductor_Basico.AssemblyInfo.cs
+C:\Users\USUARIO\Documents\PROYECTOS\FLORES_M_ESTRUCTURA_DE_DATOS\11_SEMANA_MAPAS_DICCIONARIOS\Traductor_Basico\obj\Debug\net10.0\Traductor_Basico.csproj.CoreCompileInputs.cache
+C:\Users\USUARIO\Documents\PROYECTOS\FLORES_M_ESTRUCTURA_DE_DATOS\11_SEMANA_MAPAS_DICCIONARIOS\Traductor_Basico\obj\Debug\net10.0\Traductor_Basico.sourcelink.json
+C:\Users\USUARIO\Documents\PROYECTOS\FLORES_M_ESTRUCTURA_DE_DATOS\11_SEMANA_MAPAS_DICCIONARIOS\Traductor_Basico\obj\Debug\net10.0\Traductor_Basico.dll
+C:\Users\USUARIO\Documents\PROYECTOS\FLORES_M_ESTRUCTURA_DE_DATOS\11_SEMANA_MAPAS_DICCIONARIOS\Traductor_Basico\obj\Debug\net10.0\refint\Traductor_Basico.dll
+C:\Users\USUARIO\Documents\PROYECTOS\FLORES_M_ESTRUCTURA_DE_DATOS\11_SEMANA_MAPAS_DICCIONARIOS\Traductor_Basico\obj\Debug\net10.0\Traductor_Basico.pdb
+C:\Users\USUARIO\Documents\PROYECTOS\FLORES_M_ESTRUCTURA_DE_DATOS\11_SEMANA_MAPAS_DICCIONARIOS\Traductor_Basico\obj\Debug\net10.0\Traductor_Basico.genruntimeconfig.cache
+C:\Users\USUARIO\Documents\PROYECTOS\FLORES_M_ESTRUCTURA_DE_DATOS\11_SEMANA_MAPAS_DICCIONARIOS\Traductor_Basico\obj\Debug\net10.0\ref\Traductor_Basico.dll
